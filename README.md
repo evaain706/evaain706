@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fefbfb&height=120" />
 </div>
 
-## 🛠️ Tech Stacks
+##  Tech Stacks
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 
 
-## 📌 프로젝트
+##  Projects
 
 <div align="center">
 
@@ -25,11 +25,19 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=evaain706&repo=front-quiz" />
 </a>
 
+<a href="https://github.com/codeit-2team/GlobalNomad">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codeit-2team&repo=GlobalNomad" />
+</a>
+
+<a href="https://github.com/codeit-part3-team4-WINE/WINE">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=codeit-part3-team4-WINE&repo=WINE" />
+</a>
+
 </div>
 
 
 
-## 🏅 Stats
+## Top Langs
 
 <div align="center">
 
